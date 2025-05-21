@@ -1,4 +1,4 @@
-# RoboVac-Gamepad
+# Roomba-Gamepad
 Simple library for communicating with "iRobot Open Interface", using microcontrollers compatible with Arduino. Includes example using ESP32 to directly control Roomba e6.
 
 This was inspired by watching my basic roomba, with only random walk navigation, *just* miss crumbs on the floor. I chose to take a different, more satisfying approach than others have, by enabling gamepad control to give you the power to directly vacuum any debris at your wim.
